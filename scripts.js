@@ -1,4 +1,5 @@
 console.log("Javascript successfully linked.")
+localStorage.setItem("It's a secret to everybody.", "It's dangerous to go alone! Take this. 🗡️")
 
 const hours = new Date().getHours() // get the current hour
 
